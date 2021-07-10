@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacttweet-app/static/css/main.b38161bc.chunk.css",
+    "main.js": "/reacttweet-app/static/js/main.adba64c1.chunk.js",
+    "main.js.map": "/reacttweet-app/static/js/main.adba64c1.chunk.js.map",
+    "runtime-main.js": "/reacttweet-app/static/js/runtime-main.1a422609.js",
+    "runtime-main.js.map": "/reacttweet-app/static/js/runtime-main.1a422609.js.map",
+    "static/js/2.438db072.chunk.js": "/reacttweet-app/static/js/2.438db072.chunk.js",
+    "static/js/2.438db072.chunk.js.map": "/reacttweet-app/static/js/2.438db072.chunk.js.map",
+    "static/js/3.ed8ccf45.chunk.js": "/reacttweet-app/static/js/3.ed8ccf45.chunk.js",
+    "static/js/3.ed8ccf45.chunk.js.map": "/reacttweet-app/static/js/3.ed8ccf45.chunk.js.map",
+    "index.html": "/reacttweet-app/index.html",
+    "static/css/main.b38161bc.chunk.css.map": "/reacttweet-app/static/css/main.b38161bc.chunk.css.map",
+    "static/js/2.438db072.chunk.js.LICENSE.txt": "/reacttweet-app/static/js/2.438db072.chunk.js.LICENSE.txt",
+    "static/media/tweet.d1d31041.png": "/reacttweet-app/static/media/tweet.d1d31041.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a422609.js",
+    "static/js/2.438db072.chunk.js",
+    "static/css/main.b38161bc.chunk.css",
+    "static/js/main.adba64c1.chunk.js"
+  ]
+}
